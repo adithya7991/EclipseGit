@@ -22,6 +22,7 @@ public class Test1 {
 	  
 	  dri.get("https://www.google.com/");
 	  System.out.println(dri.getTitle());
+	  System.out.println(dri.getTitle());
 	  
   }
   
